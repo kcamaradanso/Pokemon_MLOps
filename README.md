@@ -18,36 +18,14 @@ The project integrates:
 
 Predict the variable:
 
-👉 **is_legendary** (binary classification)
+ **is_legendary** (binary classification)
 
 Using Pokémon statistics and characteristics.
 
 ---
 
-## 📂 Project Structure
-
-pokemon_mlops/
-│
-├── application/
-│   ├── data_collection.py
-│   ├── data_preparation.py
-│   ├── feature_engineering.py
-│   ├── modeling.py
-│   ├── modeling_mlflow.py
-│
-├── domain/
-│   ├── transform.py
-│   ├── feature_engineering.py
-│   ├── model.py
-│
-├── notebooks/
-│   ├── analysis.ipynb
-│
-├── data/ (ignored in Git)
-│
-├── README.md
-└── requirements.txt
-
+## Project Structure
+<img width="183" height="384" alt="image" src="https://github.com/user-attachments/assets/105b7191-7855-45a2-94f2-46e3506639c3" />
 
 ---
 
@@ -90,7 +68,7 @@ The project follows five main stages:
 
 Final selected model:
 
-👉 **Random Forest**
+ **Random Forest**
 
 Based on:
 
@@ -125,7 +103,7 @@ python -m pokemon_mlops.application.modeling_mlflow
 
 ## Author
 
-**Khady Camara Danso and Jean Bacquet **  
+**Khadydiatou CAMARA DANSO and Jean BAQUET **  
 Master in Data Science / MLOps Project
 
 ---

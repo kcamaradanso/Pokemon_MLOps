@@ -18,13 +18,13 @@ The project integrates:
 
 Predict the variable:
 
-👉 **is_legendary** (binary classification)
+ **is_legendary** (binary classification)
 
 Using Pokémon statistics and characteristics.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 <img width="183" height="384" alt="image" src="https://github.com/user-attachments/assets/105b7191-7855-45a2-94f2-46e3506639c3" />
 
 ---
@@ -68,7 +68,7 @@ The project follows five main stages:
 
 Final selected model:
 
-👉 **Random Forest**
+ **Random Forest**
 
 Based on:
 

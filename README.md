@@ -103,7 +103,7 @@ python -m pokemon_mlops.application.modeling_mlflow
 
 ## Author
 
-**Khady Camara Danso and Jean Bacquet **  
+**Khadydiatou CAMARA DANSO and Jean BAQUET **  
 Master in Data Science / MLOps Project
 
 ---

@@ -25,6 +25,7 @@ Using Pokémon statistics and characteristics.
 ---
 
 ## 📂 Project Structure
+<img width="183" height="384" alt="image" src="https://github.com/user-attachments/assets/105b7191-7855-45a2-94f2-46e3506639c3" />
 
 pokemon_mlops/
 │
